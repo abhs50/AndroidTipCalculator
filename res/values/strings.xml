@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AndrioidTipCalculator</string>
+    <string name="app_name">Tip Calculator</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="btnTip_1">10%</string>
+    <string name="btnTip_2">15%</string>
+    <string name="btnTip_3">20%</string>
+    <string name="edittxtTipText">Tip is  :</string>
+    <string name="EditTextTip">Tip is :</string>
+    <string name="hintString">Enter an Amount</string>
+    <string name="editTextTipValue"></string>
+    <string name="editLabelTipValue"></string>
+    <string name="editAmountTxt">Enter a Amount</string>
+    <string name="txtViewamoutValue">Enter a amount</string>
+    <string name="tipLabel">Tip is :</string>
 
 </resources>
